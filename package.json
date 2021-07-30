@@ -17,7 +17,7 @@
   "author": "Temuri Mikava",
   "license": "MIT",
   "dependencies": {
-    "simple-subscriptions": "^0.0.2"
+    "simple-subscriptions": "^0.0.3"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
